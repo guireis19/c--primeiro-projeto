@@ -1,0 +1,8 @@
+cho "# c--primeiro-projeto" >> README.md 
+git init 
+git add README.md 
+git commit -m "first commit" 
+git branch -M main 
+git remote add origin https://github.com/guireis19/c --primeiro-projeto.git
+ git push -u origem principal
+ 
